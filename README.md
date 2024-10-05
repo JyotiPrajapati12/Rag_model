@@ -13,3 +13,6 @@ This repository implements a question-answering system using Google Gemini LLM w
 4. FAISS: Vector search engine to store and search document embeddings.
 5. Google Gemini LLM: For answering general questions and generating responses.
 6. PyPDF2: To extract text from PDF files.
+
+
+### Install the required dependencies using `pip install -r requirements.txt`.
