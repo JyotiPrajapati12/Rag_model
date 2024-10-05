@@ -78,7 +78,7 @@ def get_gemini_response(question):
 # Main Streamlit application
 def main():
     # Specify the folder where the PDFs are stored
-    pdf_folder = r"C:\Users\ye353\Desktop\chat_with_pdf\Data" 
+    pdf_folder = "./Data" 
     st.header("💁💁💁💁💁")
 
     # Button to load and process PDFs
